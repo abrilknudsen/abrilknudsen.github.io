@@ -44,8 +44,8 @@ function preload() {
 }
 
 function setup() {
- createCanvas(1920, 1080);  
-// createCanvas(windowWidth, windowHeight);
+ //createCanvas(1920, 1080);  
+ createCanvas(windowWidth, windowHeight);
 
    // Revisar si estaba en fullscreen antes del reload
    if (localStorage.getItem('fullscreen') === 'true') {  
