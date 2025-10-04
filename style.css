@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  /* overscroll-behavior-y: contain; */
+  overflow: hidden;
+
+}
+
+ canvas {
+  display: block;
+} 
