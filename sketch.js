@@ -5,8 +5,8 @@ let FREC_MIN = 120;  //AGUDO-GRAVE
 let FREC_MAX = 900;
 let FREC;
 
-let AMP_MIN = 0.03; //FUERTE,DEBIL,SUAVE    /////////CHEQUEAR MAÑANA
-let AMP_MAX = 7;
+let AMP_MIN = 0.001; //FUERTE,DEBIL,SUAVE    /////////CHEQUEAR MAÑANA
+let AMP_MAX = 0.9;
 let AMP;
 
 let mic;
